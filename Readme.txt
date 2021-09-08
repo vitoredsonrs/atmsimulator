@@ -1,4 +1,4 @@
 Criado por Vitor Edson.
 
-Simulação de um caixa eletrônico.
+Simulador de um caixa eletrônico.
 
